@@ -1,0 +1,4 @@
+# Config file for the broker
+
+# Port to listen on
+port: 9009

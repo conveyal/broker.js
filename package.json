@@ -23,9 +23,11 @@
   "homepage": "https://github.com/conveyal/broker.js#readme",
   "dependencies": {
     "bitset": "^0.3.0",
+    "body-parser": "^1.14.2",
     "express": "^4.13.3",
     "multimap": "^1.0.1",
-    "node-uuid": "^1.4.7"
+    "node-uuid": "^1.4.7",
+    "yamljs": "^0.2.4"
   },
   "babel": {
     "presets": [
