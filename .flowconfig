@@ -1,0 +1,12 @@
+[ignore]
+.*/build/.*
+.*node_modules/babylon/index.js
+
+[include]
+
+[libs]
+interfaces/
+
+[options]
+suppress_comment=\\(.\\|\n\\)*\\$FlowFixMe
+suppress_comment=\\(.\\|\n\\)*\\$FlowIssue
